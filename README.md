@@ -3,7 +3,7 @@
 Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
 # ImageClassifier
 
-# Train
+##  Train
 
 
 Train a new network on a data set with train.py
@@ -22,7 +22,7 @@ Set hyperparameters: python train.py data_dir --learning_rate 0.01 --hidden_unit
 
 Use GPU for training: python train.py data_dir --gpu
 
-Predict
+## Predict
 
 Predict flower name from an image with predict.py along with the probability of that name. That is, you'll pass in a single image /path/to
 
